@@ -1,5 +1,6 @@
 # Desktop-App-for-Cooperative-Management
 Requirements:
-Python 3.10
-PyQt
-SqLite
+i. Python 3.10
+ii. PyQt
+iii. SqLite
+Start by running the app_main.py
